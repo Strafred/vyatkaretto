@@ -1,9 +1,11 @@
-### lab_1 - детский сад
+### lab_1 - kindergarten
 
-### lab_2 - функции строки регексы
+### lab_2 - functions, strings, regexes
 
-### lab_3 - списки сеты таплы
+### lab_3 - lists, sets, tuples
 
-### lab_4 - словари, файлы, исключения
+### lab_4 - dictionaries, files, exceptions
 
 ### lab_5 - numpy, matplotlib
+
+### lab_6 - pandas
