@@ -1,1 +1,1 @@
-We can’t display this README because it appears to contain binary data.
+# all courses content
