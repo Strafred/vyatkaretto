@@ -1,1 +1,1 @@
-всЄ везде и сразу
+We canТt display this README because it appears to contain binary data.
